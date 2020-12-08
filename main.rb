@@ -2,7 +2,7 @@
 
 class Cube
 
-  def initialize(x, y, b)
+  def initialize(width, height, depth)
     @width = x
     @height = y
     @depth = b
